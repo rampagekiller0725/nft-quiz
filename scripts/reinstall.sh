@@ -1,1 +1,0 @@
-dfx canister install nns_registry --mode=reinstall
